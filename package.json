@@ -1,5 +1,5 @@
 {
-  "name": "account",
+  "name": "authentication",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
